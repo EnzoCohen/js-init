@@ -15,7 +15,6 @@ let student = {
         cejm:[16,10],
         atpro:[12,10],
         anglais:[16,10],
-        
     }
 }
 
